@@ -1,11 +1,11 @@
 <?xml version="1.0" ?><Project>
 	<Id>c53799348d5533d6bb01728d4bd86c0a</Id>
-	<Name></Name>
+	<Name/>
 	<Description> </Description>
 	<StartDate> </StartDate>
 	<Parent/>
 	<ProjectBackLog/>
-	<Children List=""/>
+	<Children List=""><Child Id="801d1773eaf5c2377dd5c7bf33e97797"/></Children>
 	<EstimateFinishDate> </EstimateFinishDate>
 	<EstimateHours> </EstimateHours>
 	<ActualHours> </ActualHours>
