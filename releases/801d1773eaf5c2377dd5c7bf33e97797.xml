@@ -1,9 +1,9 @@
 <?xml version="1.0" ?><Release>
 	<Id>801d1773eaf5c2377dd5c7bf33e97797</Id>
-	<Name></Name>
+	<Name/>
 	<Description> </Description>
 	<StartDate> </StartDate>
-	<Children List=""/>
+	<Children List=""><Child Id="00c6b8ff8834270005863fd011152a87"/></Children>
 	<Parent Id="c53799348d5533d6bb01728d4bd86c0a"/>
 	<EstimateFinishDate> </EstimateFinishDate>
 	<EstimateHours> </EstimateHours>
