@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><Story>
+    <Id>b91df40f8d6ae499a85c73fbcdc49758</Id>
+    <Name></Name>
+    <Description> </Description>
+    <StartDate> </StartDate>
+    <As_a> </As_a>
+    <Want_to> </Want_to>
+    <So_that> </So_that>
+    <EstimateFinishDate> </EstimateFinishDate>
+    <EstimateHours> </EstimateHours>
+    <ActualHours> </ActualHours>
+    <ActualFinish> </ActualFinish>
+    <Owner> </Owner>
+    <Children List=""/>
+    <Parent/>
+    <Scribbles><Scribble Color="[1.0,1.0,1.0,1.0]" Id=""/><Scribble Color="[1.0, 1.0, 1.0, 1.0]" Id="07e065c0adadebeb1f31b78eca51bad1"><![CDATA[[(90.000000000000114, 122.00000000000006), (90.000000000000114, 122.00000000000006), (137.0, 171.99999999999994), (177.00000000000011, 196.0), (194.0, 197.00000000000006), (203.0, 174.00000000000006), (229.0, 105.0), (245.0, 85.000000000000057), (269.0, 95.0), (296.0, 129.00000000000006), (305.0, 178.0), (307.0, 184.00000000000006), (307.0, 184.00000000000006)]]]></Scribble></Scribbles>
+    <TextFields>
+        <TextArea Color="[1.0,1.0,1.0,1.0]" Font-Size="" Id="" pos="" size=""/>
+    </TextFields>
+</Story>
