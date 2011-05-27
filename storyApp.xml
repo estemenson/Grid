@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<storyApp>
+	<Artefact Id="2af222f3027129b54554db4f73c3b719" pos="(500,500)" size="(500,500)" open="True"></Artefact>
+	<Artefact Id="c056097d6eee12a3639d71003edc868f" pos="(150,200)" size="(300,300)" open="True"></Artefact>
+	<Artefact Id="bd80f74b8418f3708cafefe2f1c1c5b9" pos="(700,400)" size="(300,300)" open="False"></Artefact>
+</storyApp>
