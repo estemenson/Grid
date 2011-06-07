@@ -1,9 +1,9 @@
 <?xml version="1.0" ?><Sprint>
 	<Id>421b8bd9944848b6931c6aa762b4f972</Id>
-	<Name></Name>
+	<Name/>
 	<Description> </Description>
 	<StartDate> </StartDate>
-	<Children List=""/>
+	<Children List=""><Child Id="dc3d46fbf3897576c2036338f5dcbe55"/></Children>
 	<Parent/>
 	<EstimateFinishDate> </EstimateFinishDate>
 	<EstimateHours> </EstimateHours>
