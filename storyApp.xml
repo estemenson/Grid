@@ -1,7 +1,7 @@
 <?xml version="1.0" ?><storyApp>
 <Artefact Id="c53799348d5533d6bb01728d4bd86c0a" open="True" pos="(38.720000000000141, 598.33000000000015)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
 <Artefact Id="801d1773eaf5c2377dd5c7bf33e97797" open="True" pos="(127.57999999999993, 532.15999999999985)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
-<Artefact Id="421b8bd9944848b6931c6aa762b4f972" open="True" pos="(196.67000000000007, 435.76999999999992)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
-<Artefact Id="dc3d46fbf3897576c2036338f5dcbe55" open="True" pos="(270.34999999999991, 374.64999999999986)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
-<Artefact Id="a6d45e0cd502edaaa8042928e557b72b" open="True" pos="(314.28999999999985, 223.30000000000007)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
+<Artefact Id="421b8bd9944848b6931c6aa762b4f972" open="True" pos="(144.17000000000007, 444.73999999999995)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
+<Artefact Id="dc3d46fbf3897576c2036338f5dcbe55" open="False" pos="(270.34999999999991, 374.64999999999986)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
+<Artefact Id="a6d45e0cd502edaaa8042928e557b72b" open="False" pos="(314.28999999999985, 223.30000000000007)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
 </storyApp>
