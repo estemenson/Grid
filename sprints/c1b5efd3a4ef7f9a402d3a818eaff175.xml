@@ -1,0 +1,16 @@
+<?xml version="1.0" ?><Sprint>
+	<Id>c1b5efd3a4ef7f9a402d3a818eaff175</Id>
+	<Name></Name>
+	<Description> </Description>
+	<StartDate> </StartDate>
+	<Children List=""/>
+	<Parent/>
+	<EstimateFinishDate> </EstimateFinishDate>
+	<EstimateHours> </EstimateHours>
+	<ActualHours> </ActualHours>
+	<ActualFinish> </ActualFinish>
+    <Scribbles><Scribble Color="[1.0,1.0,1.0,1.0]" Id=""/></Scribbles>
+    <TextFields>
+        <TextArea Color="[1.0,1.0,1.0,1.0]" Font-Size="" Id="" pos="" size=""/>
+    </TextFields>
+</Sprint>
