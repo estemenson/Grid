@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" ?><storyApp>
 <Artefact Id="c53799348d5533d6bb01728d4bd86c0a" open="True" pos="(38.720000000000141, 598.33000000000015)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
 <Artefact Id="801d1773eaf5c2377dd5c7bf33e97797" open="True" pos="(132.57999999999993, 555.15999999999985)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
@@ -5,3 +6,12 @@
 <Artefact Id="dc3d46fbf3897576c2036338f5dcbe55" open="True" pos="(272.34999999999991, 447.64999999999986)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
 
 </storyApp>
+=======
+<?xml version="1.0" ?><storyApp>
+<Artefact Id="c53799348d5533d6bb01728d4bd86c0a" open="True" pos="(160.83344515589269, 529.8193024448484)" rotation="4.60030350819" scale="0.946670610051" size="(600, 400)"/>
+<Artefact Id="801d1773eaf5c2377dd5c7bf33e97797" open="False" pos="(127.57999999999993, 532.15999999999985)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
+
+<Artefact Id="dc3d46fbf3897576c2036338f5dcbe55" open="False" pos="(270.34999999999991, 374.64999999999986)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
+<Artefact Id="a6d45e0cd502edaaa8042928e557b72b" open="False" pos="(314.28999999999985, 223.30000000000007)" rotation="-0.0" scale="1.0" size="(600, 400)"/>
+<Artefact Id="9eb7e559fc4084510fe5ccd181556db0" open="False" pos="(941.86000000000035, 337.14000000000073)" rotation="-0.0" scale="1.0" size="(600, 400)"/><Artefact Id="c1b5efd3a4ef7f9a402d3a818eaff175" open="False" pos="(824.18000000000006, 575.94999999999993)" rotation="-0.0" scale="1.0" size="(600, 400)"/><Artefact Id="6436d9de871efd159f1e2ab19453e1c2" open="False" pos="(1157.3099999999999, 505.04000000000008)" rotation="-0.0" scale="1.0" size="(600, 400)"/></storyApp>
+>>>>>>> remotes/origin/master
